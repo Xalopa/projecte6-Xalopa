@@ -30,7 +30,7 @@ En resum:
 
 # 3. TASCA 1 – Protecció de dades en repòs (Xifratge Simètric)
 
-### Eina utilitzada: VeraCrypt  
+### Eina utilitzada: VeraCrypt 
 ### Algorisme utilitzat: AES-256  
 ### Mida del volum: 100 MB  
 
@@ -49,8 +49,10 @@ S’ha creat un contenidor xifrat utilitzant el programari VeraCrypt amb les seg
 Aquest volum simula un dispositiu USB utilitzat per transportar exàmens finals de forma segura.
 
 ### 📸 Evidència 1 – Configuració del volum
-_(Inserir captura de pantalla on es vegi la configuració amb AES i la mida de 100MB)_
 
+![captura1](img/1.png)
+![captura1](img/2.png)
+![captura1](img/1.png)
 ---
 
 ## 3.2 Muntatge del volum
