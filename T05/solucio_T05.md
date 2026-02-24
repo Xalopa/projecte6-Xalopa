@@ -52,7 +52,7 @@ Aquest volum simula un dispositiu USB utilitzat per transportar exàmens finals 
 
 ![captura1](img/1.png)
 ![captura1](img/2.png)
-![captura1](img/1.png)
+![captura1](img/3.png)
 ---
 
 ## 3.2 Muntatge del volum
