@@ -75,9 +75,7 @@ Un cop muntat, el sistema el reconeix com una unitat normal i permet guardar-hi 
 ![captura1](img/12.png)
 ![captura1](img/13.png)
 ![captura1](img/14.png)
-
-
-
+![captura1](img/48.png)
 ---
 
 ## 3.3 Creació del fitxer confidencial
