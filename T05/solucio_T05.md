@@ -148,7 +148,8 @@ L'alumne ha aprovat amb un 5
 ### 📸 Evidència 5 – Fitxer creat amb el contngut que es demana
 
 ![captura1](img/18.png)
-
+---
+![captura1](img/19.png)
 ---
 
 ## 4.2 Càlcul del hash original
@@ -157,9 +158,13 @@ Mitjançant la comanda:
 
 certutil -hashfile nota_final_curs.txt.txt SHA256
 
-
 S’ha obtingut un valor hash únic que identifica el contingut del document.
 
+### 📸 Evidència 6 – Calcul del hash original que identifica el contingut del document
+
+![captura1](img/20.png)
+---
+![captura1](img/21.png)
 ---
 
 ## 4.3 Modificació del document
@@ -175,7 +180,15 @@ A:
 
 L'alumne ha aprovat amb un 9
 
+### 📸 Evidència 7 – Mofica la xifra del document
 
+Previament teniem:
+
+![captura1](img/19.png)
+
+Ara tenim:
+
+![captura1](img/22.png)
 ---
 
 ## 4.4 Nou càlcul del hash
@@ -184,9 +197,9 @@ Després de la modificació, s’ha tornat a executar la mateixa comanda per obt
 
 El resultat obtingut és completament diferent del hash original, tot i haver canviat només un caràcter.
 
-### 📸 Evidència 5 – Comparació dels dos hash
-_(Inserir captura on es vegin els dos hash diferents al terminal)_
+### 📸 Evidència 8 – Nou hash obtingut després d'haver modificat la xifra del document
 
+![captura1](img/23.png)
 ---
 
 ## 4.5 Resultat de la Tasca 2
