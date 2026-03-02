@@ -51,8 +51,10 @@ Aquest volum simula un dispositiu USB utilitzat per transportar exàmens finals 
 ### 📸 Evidència 1 – Configuració del volum
 
 ![captura1](img/1.png)
+
 ---
 ![captura1](img/2.png)
+
 ---
 ![captura1](img/3.png)
 ---
