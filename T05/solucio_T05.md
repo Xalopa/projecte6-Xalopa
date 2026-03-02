@@ -90,6 +90,9 @@ Aquest document conté preguntes d’examen de prova.
 
 ### 📸 Evidència 3 – Fitxer dins la unitat xifrada
 ![captura1](img/48.png)
+![captura1](img/49.png)
+
+
 
 ---
 
@@ -103,7 +106,8 @@ Després de desmuntar el volum:
 Això demostra que sense la contrasenya correcta no es pot accedir a la informació.
 
 ### 📸 Evidència 4 – Fitxer il·legible sense muntar
-_(Inserir captura intentant obrir el fitxer contenidor directament)_
+![captura1](img/15.png)
+![captura1](img/16.png)
 
 ---
 
