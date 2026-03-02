@@ -75,7 +75,7 @@ Un cop muntat, el sistema el reconeix com una unitat normal i permet guardar-hi 
 ![captura1](img/12.png)
 ![captura1](img/13.png)
 ![captura1](img/14.png)
-![captura1](img/48.png)
+
 ---
 
 ## 3.3 Creació del fitxer confidencial
@@ -89,7 +89,7 @@ EXAMEN_FINAL_SEGURETAT.txt
 Aquest document conté preguntes d’examen de prova.
 
 ### 📸 Evidència 3 – Fitxer dins la unitat xifrada
-_(Inserir captura on es vegi el fitxer dins la unitat muntada)_
+![captura1](img/48.png)
 
 ---
 
