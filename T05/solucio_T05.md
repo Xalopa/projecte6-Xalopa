@@ -51,10 +51,8 @@ Aquest volum simula un dispositiu USB utilitzat per transportar exàmens finals 
 ### 📸 Evidència 1 – Configuració del volum
 
 ![captura1](img/1.png)
-
 ---
 ![captura1](img/2.png)
-
 ---
 ![captura1](img/3.png)
 ---
@@ -84,9 +82,10 @@ Un cop muntat, el sistema el reconeix com una unitat normal i permet guardar-hi 
 ### 📸 Evidència 2 – Unitat muntada al sistema
 
 ![captura1](img/12.png)
+---
 ![captura1](img/13.png)
+---
 ![captura1](img/14.png)
-
 ---
 
 ## 3.3 Creació del fitxer confidencial
@@ -103,7 +102,6 @@ Aquest document conté preguntes d’examen de prova.
 ![captura1](img/48.png)
 ---
 ![captura1](img/49.png)
-
 ---
 
 ## 3.4 Demostració d’inaccessibilitat
@@ -121,7 +119,6 @@ Això demostra que sense la contrasenya correcta no es pot accedir a la informac
 ![captura1](img/15.png)
 ---
 ![captura1](img/16.png)
-
 ---
 
 ## 3.5 Resultat de la Tasca 1
@@ -148,6 +145,9 @@ Amb el següent contingut:
 
 L'alumne ha aprovat amb un 5
 
+### 📸 Evidència 5 – Fitxer creat amb el contngut que es demana
+
+![captura1](img/18.png)
 
 ---
 
