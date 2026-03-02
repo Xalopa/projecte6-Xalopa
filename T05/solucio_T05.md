@@ -60,6 +60,7 @@ Aquest volum simula un dispositiu USB utilitzat per transportar exàmens finals 
 ![captura1](img/8.png)
 ![captura1](img/9.png)
 ![captura1](img/10.png)
+![captura1](img/11.png)
 
 ---
 
@@ -70,7 +71,12 @@ El contenidor s’ha muntat correctament com una unitat virtual dins del sistema
 Un cop muntat, el sistema el reconeix com una unitat normal i permet guardar-hi arxius.
 
 ### 📸 Evidència 2 – Unitat muntada al sistema
-_(Inserir captura on es vegi la nova unitat a “Aquest Equip”)_
+
+![captura1](img/12.png)
+![captura1](img/13.png)
+![captura1](img/14.png)
+
+
 
 ---
 
