@@ -6,7 +6,7 @@
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: [Xavi López Pardo]
 
 Formant grups de treball: [Xavi López i Daniel Martinez]
 
