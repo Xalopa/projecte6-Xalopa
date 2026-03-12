@@ -1,4 +1,4 @@
-# projecte Nexus
+# Projecte Nexus
 
 ## Desplegament integral d'infraestructura segura per a entorns d'e-learning
 
