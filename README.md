@@ -8,7 +8,7 @@
 
 Nom: [Escriu el teu nom aquí]
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]
+Formant grups de treball: [Xavi López i Daniel Martinez]
 
 ## Descripció del projecte
 
