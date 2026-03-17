@@ -8,7 +8,7 @@ Primer de tot, establir una base de seguretat per a tots els usuaris del domini,
 
 Ara, haurem de fer doble clic sobre Minimum password length i el posem al valor 8, per arribar a aqui haurem de fer el següent:
 
-![captura1](img/2.png)
+![captura2](img/2.png)
 
 ![captura1](img/3.png)
 
