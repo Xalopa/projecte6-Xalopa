@@ -67,6 +67,37 @@ Anar a Configuració d’usuari → Instal·lació de software i afegir un nou p
 
 ![captura1](img/22.png)
 
+![captura1](img/23.png)
+
+![captura1](img/24.png)
+
+![captura1](img/25.png)
+
+![captura1](img/26.png)
+
+Configuració del Servidor
+1. Carpeta Compartida: Es crea la carpeta perfils al disc del servidor (unitat de dades).
+2. Permisos: Es comparteix la carpeta
+3. Mobilitat d'Usuaris (Perfils Mòbils)
+
+![captura1](img/27.png)
+
+Configuració de l'Usuari
+1. A les Propietats de l'usuari (o plantilla), pestanya Perfil (Profile).
+2. Ruta del perfil (Profile path): S'especifica la ruta de xarxa: \\NOM-SERVIDOR\perfils\%username%
+
+![captura1](img/28.png)
+
+I per verificar crearem un usuari de prova i entrarem amb aquest usuari
+
+![captura1](img/29.png)
+
+![captura1](img/30.png)
+
+
+
+
+
 
 
 
