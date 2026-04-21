@@ -94,6 +94,47 @@ I per verificar crearem un usuari de prova i entrarem amb aquest usuari
 
 ![captura1](img/30.png)
 
+![captura1](img/noob.png)
+
+Seguidament haurem d'anar a l'editor de GPO i fer click dret a documents
+
+![captura1](img/31.png)
+
+Haurem de posar la ruta correcta del nostre servidor
+
+![captura1](img/32.png)
+
+I ara comprovem amb el client si el document existeix
+
+![captura1](img/34.png)
+
+![captura1](img/33.png)
+
+Per ultim, haurem de crear l'usuari d'adminstrador local
+
+![captura1](img/35.png)
+
+Per delegar el control a l'usuari adminOU sense fer-lo administrador:
+Fer clic dret sobre la OU principal i selecciona Delegate Control
+
+![captura1](img/36.png)
+
+Haurem d'afegir l'usuari adminOU
+
+![captura1](img/37.png)
+
+Tindrem que seleccionar les tasques específiques: 
+"Reset user passwords and force password change at next logon" i "Modify the membership of a group".
+
+![captura1](img/38.png)
+
+![captura1](img/39.png)
+
+
+
+
+
+
 
 
 
