@@ -92,15 +92,4 @@ També podem contrastar-ho amb un inici d'èxit (4624), tot i que l'important pe
 L'**Event ID** que Windows assigna a un intent d'inici de sessió fallit és el **4625**.  
 Una ràfega de 4625 seguits per al mateix usuari és un indici clar d'un possible atac de força bruta. Amb l'auditoria activada, tenim la prova al registre.
 
----
 
-## 🧾 Què cal lliurar (resum)
-
-- ✅ Captura del Gestor de Tasques amb l'anàlisi (CPU 30 %, RAM 28 % → sense estrès).
-- ✅ Captura de la directiva d'auditoria d'inici de sessió (Success i Failure activats).
-- ✅ Evidència forense: captura d'un esdeveniment **4625** al Visor d'Esdeveniments amb els seus detalls.
-- ✅ Resposta tècnica: **Event ID = 4625**.
-
----
-
-*Guia llesta per al teu GitHub. Les imatges van a la carpeta `img/` amb els noms tal qual: `1.png`, `2.png`, `3.png`, `4.png`, `5.png`, `6.png` (si la tens), `7.png`, `8.png`.*
